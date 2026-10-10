@@ -81,6 +81,7 @@ Unofficial extensions
 * [Faker](https://github.com/calebdw/fakerstan)
 * [Silverstripe CMS](https://github.com/Cambis/silverstan)
 * [Sylius](https://github.com/bitExpert/phpstan-sylius)
+* [Crucible](https://github.com/cruciblephp/crucible)
 
 3rd party rules
 -----------------
